@@ -4,13 +4,14 @@
 The purpose of the analysis is to study Amazon reviews written by people of the paid Amazon Vine program. The Amazon Vine program is a service that provides sellers reviews for their products. Companies like SellBy pay a small amount to Amazon and give products to Amazon Vine members. Then the members publish a review of the product. The reviews of the Vine members will be compared to reviews by non-Vine members to look at trends in ratings in one specific product area. For this project, the chosen dataset is video game reviews.
 
 ## Results 
-There is a bulleted list that addresses the three questions for unpaid and paid program reviews using bulleted lists and images of DataFrames as support:
 
 ### How many Vine reviews and non-Vine reviews were there?
 There are only 94 Vine reviews compared to 40471 non-Vine reviews. The non-Vine reviews account for 99.77% of the reviews and demonstrates a very small Vine program for video game reviews.
 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 There are 48 five-star Vine reviews compared to 15663 five-star ratings for non-Vine reviewers.
+
+![Five_Star_Ratings](https://user-images.githubusercontent.com/69759624/103499516-fcef1380-4e0d-11eb-83df-c7042aef2150.PNG)
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 The percentage of five-star Vine reviews is 0.31% compared to 99.69% for non-Vine reviews that were five-stars.

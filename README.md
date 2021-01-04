@@ -8,6 +8,8 @@ The purpose of the analysis is to study Amazon reviews written by people of the 
 ### How many Vine reviews and non-Vine reviews were there?
 There are only 94 Vine reviews compared to 40471 non-Vine reviews. The non-Vine reviews account for 99.77% of the reviews and demonstrates a very small Vine program for video game reviews.
 
+![Vine_vs_Non_Vine](https://user-images.githubusercontent.com/69759624/103499521-00829a80-4e0e-11eb-81ef-d2f262f86f5c.PNG)
+
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 There are 48 five-star Vine reviews compared to 15663 five-star ratings for non-Vine reviewers.
 
